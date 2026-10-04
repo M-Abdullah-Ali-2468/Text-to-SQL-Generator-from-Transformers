@@ -1,0 +1,4 @@
+WikiSQL/
+__pycache__/
+*.pyc
+checkpoints/
