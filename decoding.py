@@ -32,40 +32,60 @@ def greedy_decode(model, src, src_mask=None, max_len=64):
     return tgt
 
 
-def beam_search_decode(model, src, src_mask=None, beam_size=4, max_len=64):
+def beam_search_decode(model,src,src_mask=None,beam_size=4,max_len=64):
     model.eval()
-    device = src.device
-    memory = model.encoder(model.input_layer(src),src_mask)
-    tgt = torch.full((1,1),BOS_ID,dtype=torch.long,device=device)
-    beams = [(tgt,0.0)]
+    device=src.device
+    batch_size=src.size(0)
+
+    memory=model.encoder(model.input_layer(src),src_mask)
+    memory=memory.unsqueeze(1).expand(batch_size,beam_size,memory.size(1),memory.size(2))
+    memory=memory.reshape(batch_size*beam_size,memory.size(2),memory.size(3))
+
+    src_mask=src_mask.unsqueeze(1).expand(batch_size,beam_size,*src_mask.shape[1:])
+    src_mask=src_mask.reshape(batch_size*beam_size,*src_mask.shape[2:])
+
+    sequences=torch.full((batch_size*beam_size,1),BOS_ID,dtype=torch.long,device=device)
+    scores=torch.zeros(batch_size,beam_size,device=device)
+    scores[:,1:]=-float("inf")
+    scores=scores.view(-1)
+    finished=torch.zeros(batch_size*beam_size,dtype=torch.bool,device=device)
 
     for _ in range(max_len):
-        new_beams = []
+        tgt_padding_mask=(sequences==0).unsqueeze(1)
+        decoder_input=model.input_layer(sequences)
+        out=model.decoder(decoder_input,memory,tgt_padding_mask,src_mask)
+        logits=torch.log_softmax(model.output_projection(out[:,-1,:]),dim=-1)
 
-        for seq,score in beams:
-            if seq[0,-1].item() == EOS_ID:
-                new_beams.append((seq,score))
-                continue
+        logits[finished,:]=-float("inf")
+        logits[finished,EOS_ID]=0.0
 
-            tgt_padding_mask = (seq == 0).unsqueeze(1)
-            decoder_input = model.input_layer(seq)
-            out = model.decoder(decoder_input,memory,tgt_padding_mask,src_mask)
-            out = out[:,-1,:]
-            prob = torch.log_softmax(model.output_projection(out),dim=-1)
-            top_probs, top_ix = prob.topk(beam_size,dim=1)
+        vocab_size=logits.size(-1)
+        candidate_scores=(scores.unsqueeze(1)+logits).view(batch_size,beam_size*vocab_size)
+        top_scores,top_indices=torch.topk(candidate_scores,beam_size,dim=1)
 
-            for i in range(beam_size):
-                next_token = top_ix[0,i].view(1,1)
-                new_seq = torch.cat([seq,next_token],dim=1)
-                new_score = score + top_probs[0,i].item()
-                new_beams.append((new_seq,new_score))
+        beam_indices=top_indices//vocab_size
+        token_indices=top_indices%vocab_size
 
-        beams = sorted(new_beams,key=lambda x:x[1],reverse=True)[:beam_size]
+        offsets=(torch.arange(batch_size,device=device)*beam_size).unsqueeze(1)
+        global_indices=(beam_indices+offsets).view(-1)
 
-        if all(seq[0,-1].item() == EOS_ID for seq,_ in beams):
+        sequences=sequences[global_indices]
+        memory=memory[global_indices]
+        src_mask=src_mask[global_indices]
+        finished=finished[global_indices]
+
+        sequences=torch.cat([sequences,token_indices.view(-1,1)],dim=1)
+        scores=top_scores.view(-1)
+        finished=finished|(token_indices.view(-1)==EOS_ID)
+
+        if finished.view(batch_size,beam_size).all():
             break
 
-    return beams[0][0]
+    best_indices=scores.view(batch_size,beam_size).argmax(dim=1)
+    offsets=torch.arange(batch_size,device=device)*beam_size
+    best_indices=best_indices+offsets
+
+    return sequences[best_indices]
 
 
 def parse_sql_string(decoded_str):
@@ -114,29 +134,38 @@ def parse_sql_string(decoded_str):
 
 def write_predictions(model,dataloader,output_file="test_output.jsonl",use_beam=False):
     model.eval()
+    device=next(model.parameters()).device
+    total=len(dataloader.dataset)
+    count=0
 
     with open(output_file,"w",encoding="utf-8") as f:
         with torch.no_grad():
-
             for batch in dataloader:
-                src,tgt = batch
-                src = src.to(next(model.parameters()).device)
-                src_mask = (src == 0).unsqueeze(1)
+                src,tgt=batch
+                src=src.to(device)
+                src_mask=(src==0).unsqueeze(1)
+
+                if use_beam:
+                    pred_tokens=beam_search_decode(model,src,src_mask,beam_size=4,max_len=64)
+                else:
+                    pred_tokens=greedy_decode(model,src,src_mask,max_len=64)
 
                 for i in range(src.size(0)):
-                    single_src = src[i].unsqueeze(0)
-                    single_mask = src_mask[i].unsqueeze(0)
+                    tokens=pred_tokens[i].tolist()
 
-                    if use_beam:
-                        pred_tokens = beam_search_decode(model,single_src,single_mask)
-                    else:
-                        pred_tokens = greedy_decode(model,single_src,single_mask)
+                    if EOS_ID in tokens:
+                        tokens=tokens[:tokens.index(EOS_ID)+1]
 
-                    decoded_str = sp.decode(pred_tokens[0].tolist())
-                    decoded_str = decoded_str.replace("<s>","").replace("</s>","").strip()
-                    parsed_query = parse_sql_string(decoded_str)
+                    decoded_str=sp.decode(tokens)
+                    decoded_str=decoded_str.replace("<s>","").replace("</s>","").strip()
+                    parsed_query=parse_sql_string(decoded_str)
 
-                    f.write(json.dumps({"query":parsed_query}) + "\n")
+                    f.write(json.dumps({"query":parsed_query})+"\n")
+
+                    count+=1
+
+                    if use_beam and (count%10==0 or count==total):
+                        print(f"Beam progress: {count}/{total}",flush=True)
 
 
 def readable_sql(parsed_query,column_names):

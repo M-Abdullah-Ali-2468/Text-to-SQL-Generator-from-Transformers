@@ -1,0 +1,1442 @@
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "butler (ks)"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "3"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "21"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "42"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "1996-97"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "westchester high school"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "amir johnson"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[4, 0, "2005-06"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "2006-07"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[5, 0, "freno state"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "trey johnson"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[4, 0, "senior stques gir8"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "senior"], [0, 0, "italy g8"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "native"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "canraberenber"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "canraber"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "angu"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "st. john city"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "australia"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[6, 0, "9x02"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "8x15"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[6, 0, "6"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "\u2014.37"], [2, 0, "13.2"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "trenail"]]}}
+{"query": {"sel": 1, "agg": 4, "conds": [[3, 0, "1,289"], [2, 1, "< 15.82828.62897)"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "trevikail"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "trenail"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "\u2014.23"], [2, 0, "15.23"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "big am"], [1, 0, "big am' ames"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "4th, atlantic"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "2003"], [1, 0, "did not qualify"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "u. round"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "atlantic, 1st"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "1st round"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "7-2"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "3\u20132"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "2\u20137"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "4-1"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "haugar"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "galasaray"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "tom sneva"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[6, 0, "56.920"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "sythe racing"], [6, 0, "tethe tethe racing"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "indianapolis"], [2, 0, "500"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "bobby rahal"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "esc rad"], [2, 0, "200 esning"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "north america porsche"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[3, 0, "phoenix international raceway"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "12"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[3, 0, "lake burke burut reports"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "5"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[2, 0, "tony bettenusen 200"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "los angeles 500"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "kraco 125 (rin 1252)"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "johnny rutherford"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "10"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "north east clureos award"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "ethptiapt"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "ugandaptandapt"]]}}
+{"query": {"sel": 5, "agg": 1, "conds": [[0, 0, "grundpt"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "76.3%"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[2, 0, "92.5%"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "kleen"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "borovica"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "96.9%"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "koten"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "november 12"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "san antonio"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "4"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[1, 0, "november 20"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "februaryied"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "april 2008"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[2, 0, "\"don't'don'"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "august 8"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "17 march 2008"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "april 2008"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "\"regat sexationspect\""]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "wilfrid laurier"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "le-ciblote"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "northwestern"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[6, 0, "4.91"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "stadtilstadkir"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "427"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "raiders"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "galena"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "lancers"], [2, 0, "lanc"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "miners anders"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "raiders"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "nov 2002"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "28, 2004"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "may 4, 2003"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[4, 0, "patstk huri"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "rick stodeler"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "\"ambush\""]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "wife knound"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "epodelodea"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "joseph joseph"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "epoderiodeo"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "2007"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[0, 0, "2005"], [1, 0, "western carolina"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "miami"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "embry slridd."]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "2007"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "mclaren - mercedes"], [2, 0, "david coulthard"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "italian grand prix"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "belgian grand prix"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "belgian grand prix"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[4, 0, "charles e. chamr. chamain (l)"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "ch. holif (d)"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "california 10th"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "august 21, 1973"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "died january 1, 1974"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "us rout"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "bre-35"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "bre-35"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "us us jun 81"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "us jun usas"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "\" junction"], [3, 0, "202"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "st. louis cardinals"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[8, 0, "2-13"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "56.63"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "9.28"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "phil mickelson"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[5, 0, "5 strokes"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "chris leadco"], [2, 0, "1 shot leadar"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[2, 0, "\u22121-69-69-69-69=272)"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "\u221212-71-65-65=274=276)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "\u221219 (66-67-66-67-69=29)"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "january8,2001"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "beesley beainon"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "luiediedt"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "luwied"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "75it"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "ireland"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "100it"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "purancy"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "rud"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "pur"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "purifferman"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "medancy"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "pursted"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "\"formstire\""]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[6, 0, "624"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "karen don woodard"], [4, 0, "karen wood"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "8411"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[0, 0, "amazuon"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "63"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[0, 0, "amazazuon"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[5, 0, "7"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[5, 0, "967"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "10"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "hartford"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "lasalle"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "6-6"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "1986-92"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "southern university"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "major jones"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "tri island island island tribe"], [3, 0, "1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "tri island island island island"], [0, 0, "6 island tribe"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "tri island island island"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "tri island island island island"], [0, 0, "14 island"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "sihskhs"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "9.61"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "9.74"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "9.44"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "9.67"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "9.57"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "hawaii"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "50"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "49"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[7, 0, "philips arena 19,335"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "philips arena 18,227"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "w 98\u201391"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[3, 0, "109\u2013116 ot"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[8, 0, "25\u201318"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "25 :"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[1, 0, "gordon gordon"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "roy l 233"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[3, 0, "l 92\u2013101"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[3, 0, "new jersey"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[2, 0, "charlotte bobcats"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "0\u20132"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "roy l 23 : roy"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "june 10"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "june 12"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "june 5"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "65"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "michael pory"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "michael pory"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "\"whide worlden\""]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "2009"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[3, 0, "brolos & brapolhwick"], [2, 0, "brapolhwick"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[1, 0, "brholos wilts"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[2, 0, "brolos bransolholh"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[3, 0, "broshol wilet"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[2, 0, "brholheters"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "8.988"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "8.670"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "8.977"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "south dakota"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "south dakota"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "8.988"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "yakko elena shakeva"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "irandi tawan"], [4, 0, "imodra sapra saputawam"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "nao fumumumi kuruk"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "marcus white ellis whiteri"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "2008"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "n"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "bsq (sq)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "heav heavy heavaz00 (2800)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "heav heav heavy heav (287/400)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "heavyoller (2olla)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "heavy heavel (2 heavles)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "heava heavy"], [0, 0, "light heavaz (2olle)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "2.50"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[7, 0, "ap58-1584"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": [[1, 0, "samigo f3-3"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": [[6, 0, "1969-09"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "1964"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "shortko kopon"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "right gararra"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "vice"], [1, 0, "rilla"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[4, 0, "dry"], [8, 0, "don"], [1, 0, "dre lebie will"], [6, 0, "2"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "41"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[0, 0, "2005-06"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[0, 0, "16"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "16"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "robald mcdonald"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "rick jones lee jones"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "top 3"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[2, 0, "anna nickal"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "rick jones lee lee"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "top 3"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "1974"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[4, 0, "252232"]]}}
+{"query": {"sel": 3, "agg": 4, "conds": [[2, 0, "65"]]}}
+{"query": {"sel": 1, "agg": 4, "conds": [[4, 0, "262"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "jonadabad"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "yariyow"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "easl"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "jeakinjho"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "\u05d9\u05d5\u05d5\u05d5\u05d5\u05b8\u05b8"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[2, 0, "jeakinhojho"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[0, 0, "kiku"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "secret"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[0, 0, "secret"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "194atheratherbereton"]]}}
+{"query": {"sel": 5, "agg": 2, "conds": [[0, 0, "maatherbaachbaton"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "\"zzillkbu\""]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[6, 0, "12.72"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "robamey"], [4, 0, "baas bailey"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "wanda persons"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "jenn"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "may 5, 2005"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "\"rd voted out 8\""]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "3th voted out the 30'"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[6, 0, "\"th voted out out6"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "garbitzen"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "poten"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "jo perfect"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "pozure futu"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "430"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "96"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "51"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "87"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "points"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "27"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "735"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[7, 0, "2"], [8, 0, "a-5a"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "a"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "8"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "third would"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "looking"], [2, 0, "8"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "16 w"], [0, 0, "ph phase phase"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "12"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "tyie m\u00f6hen"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "lebanoning"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "subanphage"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": []}}
+{"query": {"sel": 0, "agg": 0, "conds": [[9, 0, "43579"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "mosowa"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "foowote"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[6, 0, "19082"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "south korea"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "peter mcgan"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "tim latham"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "4"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "0"], [4, 0, "2"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "steve chabot"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "debce pryahor"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "saxby chambliss"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "jeff j.erson"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "jim mccrery"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "1980"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "john cooksey"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "john porter"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "illinois 7"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "jerry cost"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "rubino hosaen"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "rubino hosaen"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "nick lampson"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "jim mcdermott"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "46.3% (r) 46.3%"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "curteld weldon"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "hiroto yosh (c)"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "22"], [2, 0, "22"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "vladimirzhzhvad"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "canada"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "22"], [0, 0, "giancco"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "georgia 8"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "georgia 4"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "thomas brinkley jack"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "larry mcdonald"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "florida 7"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "new gain"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[2, 0, "new gain"]]}}
+{"query": {"sel": 4, "agg": 3, "conds": [[0, 0, "florida 14"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "florida 7"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "don fuqua"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "1972"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "new.1% (rich) 59.1%"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[0, 0, "georgia 1"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[5, 0, "new.1%"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[0, 0, "georgia 6"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "tim hall"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "phil crane"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "tim hall"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "illinois 15"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "mik j. miva abner"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "1944"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "alvin bush"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "kentucky 4"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "noble jones gregory"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "kentucky 2"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "brentence"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "kentucky 5"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "frank democratic"], [1, 0, "frank chel"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "jamie l. whitten"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "mississippi 6"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "1941"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "w. arthur winste"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "arkansas 4"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "william nor. frell"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 1, "> 1939.0"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "arkansas 3"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "arkansas 5"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "arkansas 6"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": []}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "brooks hays"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "alabama 1"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "lost renomination"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "lost renomination"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "john e. miller"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "david delanover"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "claudeer"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "claudeer"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "thomas mcmillan"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "south carolina 1"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "south carolina 3"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "south carolina 3"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "south carolina 4"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "richard j. welch"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "democratic"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "harryle lane eng (r) unopposed"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "california 7"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "william e. evans"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "william whittington"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "south carolina 5"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "south carolina 2"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "william stevenson"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "buretton e. burton"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[8, 0, "148-38"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[2, 0, "\"the lawery the lawer\""]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[6, 0, "1.83"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "jeff melman"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "dri"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "sacramento"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "shasta"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "riverside"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "butte"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "239"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "0"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "62"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "56.5"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "stakes"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "terrygore"], [0, 0, "terry"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[0, 0, "2007 wareze"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "2007th 19"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[0, 0, "2007 14th"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "san antonio"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[8, 0, "1-3"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "53"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[8, 0, "26-21"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[2, 0, "@ minnesota"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[2, 0, "charlotteer"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[2, 0, "new jersey"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[7, 0, "staples center 18,176"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "turut"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "turutasanmutas"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "march"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "february 1944chaning"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "turutasan turutas turing"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "turmle"], [3, 0, "not turing"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[8, 0, "5.5"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "denmark"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "4.7"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "5.7"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": []}}
+{"query": {"sel": 7, "agg": 0, "conds": [[0, 0, "jones"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": [[6, 0, "45"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[7, 0, "77"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "north yukon"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "8"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "1"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "10"], [6, 0, "283"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "43"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "64"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "597"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "\u20ac20"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "esp"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "1"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[1, 0, "billy vaughn"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "ray adams"]]}}
+{"query": {"sel": 4, "agg": 1, "conds": [[3, 0, "259"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[0, 0, "maxy"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "1997"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "chan"]]}}
+{"query": {"sel": 5, "agg": 2, "conds": [[1, 0, "citv"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "citv"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "edmonton"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "1989"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[4, 0, "pia-dehuda kochk"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "1984"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "1988"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "maimin botks"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "maimin botks"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "roman bragin"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "teodovor"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[4, 0, "8-5"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "14-2"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "3-1-1"]]}}
+{"query": {"sel": 2, "agg": 2, "conds": [[3, 0, "7-5"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[5, 0, "seattle ther (wirds)"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "130"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "2"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "18' 30.5"], [6, 0, "28.599mph"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "17' 58.34"], [6, 0, "3060.960mph"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "19' 30.88mph"], [5, 0, "11.8.80)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "2007-08"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "banmy acadebridge"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "2"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "10"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "1985-86"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "2012-13"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "32"]]}}
+{"query": {"sel": 2, "agg": 1, "conds": []}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "115"]]}}
+{"query": {"sel": 2, "agg": 1, "conds": []}}
+{"query": {"sel": 5, "agg": 1, "conds": [[6, 0, "1"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "left end"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 5, "agg": 1, "conds": [[1, 0, "right tackle"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "1"]]}}
+{"query": {"sel": 5, "agg": 1, "conds": [[0, 0, "becker"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "left guard"]]}}
+{"query": {"sel": 5, "agg": 2, "conds": [[6, 0, "11"]]}}
+{"query": {"sel": 5, "agg": 1, "conds": []}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "19"]]}}
+{"query": {"sel": 5, "agg": 1, "conds": [[0, 0, "norcross"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "9th"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "13 day"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "3"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "kat kerryona"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "13 day"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "ex"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[2, 0, "\"lete\""]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[4, 0, "rob bailey"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "richard shill"], [5, 0, "steve tele"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[2, 0, "eastern denver broncos"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "cmletell"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "ehell"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "cmell"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "cmletell"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "unhellell"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "2053"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "71"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "$08,090"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "woodside"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "fayette"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "galll"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "38.38"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "103.02"]]}}
+{"query": {"sel": 5, "agg": 2, "conds": []}}
+{"query": {"sel": 0, "agg": 3, "conds": [[3, 0, "47.32"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "20.42"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "altludes"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "torese"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "9th"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "chieri"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "92.0ics economics"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "health healthice"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "healthics"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "health economalthics"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "90.8ics"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "october 17, 1937"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "9"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "4"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[7, 0, "columbia'1\""], [1, 0, "6'"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "trevard lindley"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "chicago black hawks"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "128"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "left wing"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "burese burese"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "ven venus burese"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "burese burese"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "planet burm south"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[1, 0, "19 derero"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[8, 0, "25"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "695"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[6, 0, "3"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "3:40:13:05"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "3:15:07"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[3, 0, "yendys"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "couride couride-10ts"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "cour"], [0, 0, "2006-07"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "2008-09"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "2001-02"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "miami masters"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "rome"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "lindner center"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[1, 0, "italy"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "ohio mason"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "madrid arena"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "2000/2001"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "2008/2009"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "2000/2001"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[7, 0, "3.84"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[3, 0, "david nutter"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[7, 0, "3.35"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[3, 0, "bill eagles"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "martoughial masters"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "1.8"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "martido masters"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "jitsu"], [1, 0, "jitsu"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "marta masters"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "martial martial martial"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "74804"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "october 25, 1981"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "2"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "october 18, 1981"]]}}
+{"query": {"sel": 2, "agg": 5, "conds": [[6, 0, "20"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "24:06"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "h\u00ed\u014bha\u014bna"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "w\u00e1\u010d"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "n\u00e1\u014b\u014b-\u014b\u00e1"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "wak\u017eye\u017ea"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[1, 0, "lithminton nationaluton"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[4, 0, "juasarivas"], [1, 0, "juas kivaszara"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "daniela kigela"], [0, 0, "2004"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[4, 0, "eidia jelebriden"], [1, 0, "astbriden"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "no competition"], [1, 0, "rister"], [0, 0, "2006"], [2, 0, "2006"], [3, 0, "randolian competition"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "michael jeandh"], [1, 0, "rhittera"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "1987"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "lin lin linu"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "lin lin lin lin linuay"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "28"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "united states"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "venezuela"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "iceland"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "0"], [4, 0, "0"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "worst"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "66-67-67-70"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "the open championship"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "worst"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "2nd players"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "3 & 2"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[2, 0, "it (76-72-72-7300)"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "william mehornhl"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "mike brady"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "1922"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "yes"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "onhidden"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "put"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 1, "> on"], [1, 0, "chowflowes state"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "yes"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[2, 0, "\"ok'ska\""]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "318"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[4, 0, "john ethan"], [3, 0, "spaan o'bry"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[2, 0, "\"the all beach\""]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "wooding borveolsers"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[3, 0, "sugaret"], [0, 1, "< be"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[3, 0, "wolafers"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "unmeon lallives"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "best mother"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "sam ipmo"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "hongle sun actress"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[2, 0, "jiyai shin"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "6 strokes"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[8, 0, "8 strokes"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": []}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "66-72-64-72-64"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "minnesota river"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "minnesota river"]]}}
+{"query": {"sel": 5, "agg": 2, "conds": [[6, 0, "12"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "paulistano"]]}}
+{"query": {"sel": 6, "agg": 1, "conds": [[0, 0, "7"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[6, 0, "3020"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "7.78"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "10/11"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[3, 0, "john martin indy challenge circuit"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[4, 0, "phillowlip island"], [3, 0, "james"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": [[0, 0, "danny fum"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": [[0, 0, "3.5"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": []}}
+{"query": {"sel": 7, "agg": 2, "conds": [[8, 0, "11.5"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": []}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "alearington"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "howard dwight"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[4, 0, "notre dame"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "chris gifling"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "chris gatling"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "1"], [0, 0, "murort"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "3"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "3"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "3theuse"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "bob vila"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "kyigelymberly"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "olin olalson"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "3-97"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "dialynroe monilial"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "1-97"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "\"swie ferg"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "jean - sarawood"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "liste lindalsper roals"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "kim bell , new bunies's new bunies"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "montanda amandadkial"], [5, 0, "mont's rebkial"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "10-07"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "15"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "yu singh singh"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "31.2"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "53"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "13"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "narethaz"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "rick mears"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "october 19"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "galles racing"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "december 19"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "washington"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 1, "> 6187"], [2, 0, "finn"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "halden"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "24491"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[0, 0, "ndaltown"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "hortentown"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "moss"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "hollywood"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[3, 0, "andrew web webber"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[4, 0, "safe"], [3, 0, "the beatles"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "drew zberg"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "3"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "\"the magic: maglace\""]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "september 17, 1955"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "9"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[4, 0, "jackson"], [5, 0, "may 21, 1955"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[7, 0, "continent airallin arena 13,75"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[1, 0, "italian"], [0, 0, "italianis"], [3, 1, "> 856.0"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "italy"], [3, 0, "dar"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[0, 0, "united kingdom"], [6, 1, "> 854.0"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "germany"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "antearton"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "elerson macle"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "matt wearing ange"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "matt wearing ange"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "kelly"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "21"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "rafzr. rafa piotka piot"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "ier\u5dde"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "illa\u5ddeilla"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "\u5dde\u5dde"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "\u826f\u5dde"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "2ju"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "\"jujuhan\""]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "seoulin"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "10+"], [4, 0, "10+75km"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[5, 0, "1075"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "6.640"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "okina okin"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "7.6ong"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[7, 0, "will"], [3, 0, "power"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "chicagandol"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "chicagandol"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "0.667"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[0, 0, "baylor"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[0, 0, "texas"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "san speedette fayway"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "san lincoln, illinois"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "san speed farmerway"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "san speedwayland"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "sanleston, illinois"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "12-6"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "12-6"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "24-9"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "sun"], [1, 0, "sun belt"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "confal roberts"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "qualifying"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "confc."]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "belmont"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "kardy k3-22"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "four mor"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "mentor"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "cora corentorr"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[2, 0, "mentor"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "alham moedham"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "erie, pennsylvania"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "1846"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "new york"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[2, 0, "essendon"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[2, 0, "essendon"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[6, 0, "saturday"], [2, 0, "march 4"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "13.10 (88)"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "fremantle"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "port adelaide"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[8, 0, "99"]]}}
+{"query": {"sel": 8, "agg": 2, "conds": [[9, 0, "1:47.020"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "maryland"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "kevin edwards"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "32"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[5, 0, "2000-2001"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "edwards edwards"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "justin shaw"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[4, 0, "western illinois"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "21"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "michael giffin"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "jeanolas-ereere"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "kt-mvmc"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[7, 0, "illinois"]]}}
+{"query": {"sel": 4, "agg": 1, "conds": [[1, 0, "august 5, 2008"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "34%"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "rasmussen reports"], [3, 0, "63%"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "april 22, 2008"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "1997"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "67.5n"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "rupides vail"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "71.1"], [2, 0, "71"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "109.9"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "32.91"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "33.3s"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "ptea cote"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "patera rateria"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "katera"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "40.2"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "2,155"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "23.0s"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "80.0e"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "40.5s"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "170.1"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "172.7"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "berathkshire"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "80.3"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[6, 0, "1,15.87"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[5, 0, "20.94"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[4, 0, "did not qualify"], [0, 0, "quarterfinals"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[4, 0, "did not qualify"], [0, 0, "16"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "\"coailcoail doorn"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "193788"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "0-4-34"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "1-97-37008"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": []}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "scotland"]]}}
+{"query": {"sel": 2, "agg": 2, "conds": []}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "andrea schpp"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[8, 0, "25th"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[8, 0, "16th"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "june 7"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[8, 0, "7-88"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[8, 0, "6"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[0, 0, "6"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[8, 0, "9"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "seol"]]}}
+{"query": {"sel": 9, "agg": 3, "conds": [[8, 0, "n"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[8, 0, "nz"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[0, 0, "60"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "march 18"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "january 6"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[2, 0, "1-3"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[8, 0, "9-2"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[8, 0, "74-63"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "119614"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[4, 0, "19614"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "7.4"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "7"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "8"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "8"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "equal"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "3"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[8, 0, "30"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[6, 0, "18"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "13"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "scott dixon"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[2, 0, "darren manning"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[3, 0, "l 93\u2013104 (ot)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "memphis"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "72"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "tracy mcgrady (8)"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "@ new orleans"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[6, 0, "aaron brooks (6)"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "november 1"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "november 7"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "14"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "panther racing"], [1, 0, "9ther racing"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": [[6, 0, "17"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "accident"], [6, 0, "12"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[0, 0, "19"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "february 4"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "february 4"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "81"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[0, 0, "79"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "march 9"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "cleveland"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "miami"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[7, 0, "staples center 13,6266"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[1, 0, "november 24"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[3, 0, "l 98\u2013103 (ot)"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "april 1"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "matt barnes (11)"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[4, 0, "steve high (24)"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "march 15"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[4, 0, "arthur albert"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "rmm geill"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "236"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "60"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "goulum town"]]}}
+{"query": {"sel": 7, "agg": 5, "conds": [[8, 0, "1.21"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[8, 0, "1.34"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "bangor city"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "lancaster"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "flyweight"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "32"], [2, 0, "bye"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "hlesan"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "theufun"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "\"heanheizgi"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "\"hean"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "7a"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "hant"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "8.848"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "8.78"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "illinois"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "9.14"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "8.848"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "oregon swinsuins"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "north carolina"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "maugerville"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "304.064"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "304.064"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "304.064"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "nec"], [3, 0, "11-12"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "e. nec"], [0, 0, "11-12"], [3, 0, "denang' school"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[2, 0, "11-12"], [1, 0, "nec"], [0, 0, "chang, est, 11-12"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[2, 0, "11-12"], [0, 0, "nec"], [1, 0, "chang, est, 11-12"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "mm"], [0, 0, "curbatasein"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "500b ebase"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "curan curb"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "mm"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "yes"], [4, 0, "102"], [2, 0, "10/bit"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "telecheutsk/s dbit"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "yes"], [3, 0, "1024"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "dnet"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "dalecne"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "13"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "october 16, 1966"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "miami dolphins"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "4thlete"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "4thlete"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "2nd"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[7, 0, "4.4"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[0, 0, "6"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "\"tister part:\""]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[2, 0, "\"mya may oh\""]]}}
+{"query": {"sel": 8, "agg": 1, "conds": [[7, 0, "5/22"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": [[8, 0, "276"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "17"]]}}
+{"query": {"sel": 8, "agg": 1, "conds": []}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "4"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[2, 0, "new york jets"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "1986"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "republican"], [3, 0, "1998"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "mike mcinty"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "1998"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "robin hayes"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "democratic"], [3, 0, "1998"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[7, 0, "23.7"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "jahh"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "long"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": []}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "2.5-4"]]}}
+{"query": {"sel": 8, "agg": 2, "conds": []}}
+{"query": {"sel": 6, "agg": 3, "conds": [[7, 0, "14.849-12"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": []}}
+{"query": {"sel": 6, "agg": 3, "conds": [[7, 0, "103.534-12"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "36.609"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "zolder"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "zolder"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "avus circuit"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "7"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "standard (p)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "schie schbard sch writ"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "new june 24, 2000"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "7th"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "new mos mos"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "west new park"], [5, 0, "west learthur"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "north mos new open"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "6.0"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "6"], [3, 0, "14roy"]]}}
+{"query": {"sel": 3, "agg": 4, "conds": [[2, 0, "12.0v"], [4, 1, "< 1990"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "uroy-25"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[3, 0, "belgium"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "woandiazandniacom"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "domina cibulik\u00e1"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "ryna ryb\u00e9d\u00e1rikov\u00e1"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "clay"], [0, 0, "winner (i)"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[8, 0, "62525"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "9"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "42"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "31095"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "50win-ningning"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "enwin-winningning"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "journan-win"], [2, 0, "ngournning"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "august 23"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "clwinwin-ning september 4"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "20.64"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "saita prachita"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "jatini shah shachahran"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "tinakhare"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "4160"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "daijiro grand prix"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "daijiro grand prix"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "dutch tt grand prix"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "luisoms sal grand prix"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[2, 0, "\"episode 1"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "15"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "1"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "102"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "107"]]}}
+{"query": {"sel": 5, "agg": 1, "conds": [[1, 0, "tim loane"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "mardeno ridden ridden)"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "john pasa"], [4, 0, "banino"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "little little"], [2, 0, "4:s little kentucky"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "indiana michigan"], [5, 0, "midland, wisconsin"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "merrill"], [4, 0, "wisconsin"], [6, 0, "wisconsin"], [3, 0, "wisconsin"], [2, 0, "wisconsin"], [0, 0, "wisconsin"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "ohio"], [5, 0, "ohio"], [6, 0, "ohio"], [2, 0, "wisconsin o warren"], [0, 0, "kentucky"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "ohio michigan"], [6, 0, "terre / new"], [2, 0, "1996"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "indiana little fare little farms, kentucky"], [6, 0, "/ ohio farmste"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[4, 0, "+194"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "175"]]}}
+{"query": {"sel": 3, "agg": 5, "conds": [[2, 0, "kamearanoring"], [6, 0, "magikado"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "2005-06:54xx54xx-54xxxxxxxxring"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "starame"], [2, 0, "22.4%"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[0, 0, "starame starring"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "starame"], [6, 0, "11.6%"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[2, 0, "8 june 2008"], [1, 0, "frame frame june 2008:22"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "frame frahiring"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "8.9 frame"], [2, 0, "8.9"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "frameerya frame starer"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "frame frahiring"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "4-5"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "5-speed manual"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "2002"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "3816071010"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": [[3, 0, "-10227-1075"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "48.793937"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[3, 0, "46.797"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[0, 0, "clearwater"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "48.0823"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "41"]]}}
+{"query": {"sel": 2, "agg": 1, "conds": []}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "1400.2"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "16.15"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "14.02"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[7, 0, "n/a"], [6, 0, "14.17"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "19"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "alessandro landro petvist"], [1, 0, "thomas petacchi"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "thomas lk\u00f6v\u00f6fist"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "philippe gilbert"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "danilo di luca"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[3, 0, "60"], [4, 0, "60"]]}}
+{"query": {"sel": 3, "agg": 1, "conds": [[1, 0, "starir"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "bears"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "steve mayne"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "hillc"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "caversham, ca"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "swans,"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[2, 0, "washington redskins"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[2, 0, "giants"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[5, 0, "16.35055"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "monouseorseorel"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[4, 0, "11.14.111"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "nagua"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "11th"], [6, 0, "general"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "general lohon lee lina"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "1997"], [0, 0, "general"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "alcied"], [6, 0, "aljun"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "lvia syl"], [6, 0, "general lvia contested contested contested"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "jim"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "october 6, 2005"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "november 3, 2005"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "morgan"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "bombar b2-5"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "bombarget bombget"], [4, 1, "> 38,-52"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "bomb b2-5 bar"], [0, 0, "43-5-52"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "bomb b2-5 bar"], [0, 0, "b1-5 b2"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "bomb bomb-e bombar bomb"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[2, 0, "none"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "third round"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "4"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "bob conjun"], [2, 0, "doughorough"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "interction"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "pronoun"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "interje"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "zachary sanders"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "zachary sanders"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "17.2"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "rhb"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "11.8"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "2.1"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "maxis world"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "february 26"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "october 6, 1985"], [0, 0, "g"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "6.88%"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "30"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[6, 0, "43"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "11.05%"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "median 12th median pvi"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[0, 0, "median pvi"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "mike cook pvi"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "median1,719"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "para lee barbvi median"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[0, 0, "81"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "4"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "i}}}}}}"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "250}"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "250}"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "12.0"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "35.5"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[6, 0, "65"], [5, 0, "65bal"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "29balum"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "fred"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[0, 0, "fred"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "fred"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "fred"]]}}
+{"query": {"sel": 8, "agg": 2, "conds": []}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "fred"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "12"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "12"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "10ikai 10"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "soros"], [2, 0, "7"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "nusa 11"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "jidang"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "\u2014"], [0, 0, "any1"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "\u2014"], [2, 0, "eachle"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[2, 0, "\u2014"], [1, 0, "ehanna rachlei"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "calgary centenn (ials)"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "michigan university (ncaa)"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "166"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "michigan university (ncaa)"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "centre"], [2, 0, "russ wienikch"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "your"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "15.9"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "50.5"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "9"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[5, 0, "richard l. richard (d) 46.1% (r) 53.9%"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "new york 4"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[4, 0, "re-elected"], [1, 0, "brian higgins"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "hughvet (r) 90.6% carvet (d) 90.6% carr) 90.6%"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "new york 8"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "lost renomination hold"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "1992"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "alabama 6"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "julia bermejo"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "solydo"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "katow"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "hp open"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "defendingail"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "june 12"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "l 63-77"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[5, 0, "6.95"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[4, 0, "10.2%"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "6.51"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "7.3%"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "1"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "mark f profilecher"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "1939"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[2, 0, "high school"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "north bloomington high school"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[5, 0, "200inehavaco"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "emcy"], [3, 0, "paul tracyipaldi"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "nigel andretti andretti"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "paul tracy"], [2, 0, "detroit autittive"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[6, 0, "4j08"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[6, 0, "4jak01"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "1996"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "535"], [0, 0, "r35"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "346s"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "honda"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "kalex"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[7, 0, "ic"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[4, 0, "0"], [1, 0, "ital ital racing"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "\u0627\u0627\u0627ghurika kolighona"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "yurghurgha"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "yikyghi"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "yika"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "mazika yarzik"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "vi"], [3, 0, "yikaghuriki"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "10"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[9, 0, "4th"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "22000"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "8 october 2008"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "#1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "9 september 2006"]]}}
+{"query": {"sel": 5, "agg": 1, "conds": []}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "regina"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "bc lions"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[4, 0, "calgary"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "2"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "17"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "98 (1d)"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "rd' rir (1ens)"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "r\u00fcdur"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "w 24d"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "7638 wd"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "w 22d 22"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "372d"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "377d"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "\"deman! bat\""]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "s1301"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "ben jones"], [6, 0, "jatte jones"], [4, 0, "february6,2009"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[4, 0, "s06e06"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[3, 0, "ben jones"], [2, 0, "steven steven"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "\"cisis miles\""]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "kelly"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "jim white"]]}}
+{"query": {"sel": 4, "agg": 4, "conds": [[8, 1, "> 1.0"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "gp3 series"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "6"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[6, 0, "25 su"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "rated 109"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "2.55"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "3.63"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "b5 ber"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "b6254"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "b ber.12"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "xelsen bacterenbank"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[6, 0, "10st"], [8, 0, "octagon"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "garrett"], [2, 0, "11/1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "david johnson"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 1, "< 52.05%"], [6, 0, "45.9%"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "29.9%"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "27.2%"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[6, 0, "895"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "columbia"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "gem"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": []}}
+{"query": {"sel": 1, "agg": 3, "conds": [[4, 0, "174.3%"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "jerome"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "8rd"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "professoko professinger"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[2, 0, "purdue"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[6, 0, "3-0"]]}}
+{"query": {"sel": 5, "agg": 2, "conds": [[6, 0, "5-1"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "nad azy azoen"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "twjaxeax"], [1, 0, "top"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "nreda eindhovind"], [2, 0, "ps bindho"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "audamuh"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "anaming"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "nonu"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "audcort"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "cardinalmese east"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "shirley ir"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "australianilina martilova"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[3, 0, "sherris mcman"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "brown stevie brown"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "28"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "vupiejoalie guadal4)"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "ivy conference conference"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "laayette conference"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "ivy conference conference"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "west mountain"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "2000 mwc men's basketball"], [4, 0, "2000"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "macpha"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "edward island"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "78"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[1, 0, "den van basink"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "mos"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "19"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "erica rober & debica jra wright"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[7, 0, "3.3"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "\"itch witch\""]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[1, 0, "3"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[3, 0, "bradern kern"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "20"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "20 ox"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "20"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "209"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "153"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "20-yryru"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "1991 birth"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "yengucheng"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[1, 0, "<c2> = 95\u53bf\u53bf"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "82"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "polynesian\u53bf\u53bf"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "707339"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "torrae"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "emily into"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "travis brown"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[3, 0, "donnie klang"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "travis brown"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "july 24, 2006"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "newest"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "valieer"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "15"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[1, 0, "march 8, 2008"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "15"]]}}
+{"query": {"sel": 1, "agg": 4, "conds": [[5, 0, "february 16, 2008.0"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[3, 0, "keliciley"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "robek"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "regular game"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "y y y y y = 3"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "y y y y y y y yd = y4)"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "y y y y y"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "y y y y y"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "y y y yaster = yaster = yaster = yaster = yaster = = yaster = = yaster = = yaster = = = yaster = = yaster = = = yaster = = yaster = = yaster = = = yaster ("]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "y y y y y y yd = y4)"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": []}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "prada prada"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "dennis conner"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[7, 0, "8"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[2, 0, "11"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[8, 0, "771%1.8%1%"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[8, 0, "0111.021.0%1* rb1%"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[9, 0, "4.5%11881%"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[7, 0, "0.6%1%"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "r111%"]]}}
+{"query": {"sel": 7, "agg": 1, "conds": [[8, 0, "55141%"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "9.7"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "14.1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "18847"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "9.7"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "21.1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[7, 0, "89.3%"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "-18-1"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "tr8-06-1"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[6, 0, "sydney-18-1"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "1983"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[0, 0, "winner"], [2, 0, "john lloyd"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "winner"], [6, 0, "grass"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[1, 0, "6"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[6, 0, "9.18"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "craig jr"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[7, 0, "10.14u"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[6, 0, "599"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "died may 12, 1964"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "died august 9, 1964"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "did not qualify"], [0, 0, "2009"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "2010"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": [[2, 0, "ment"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "2008"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "3,672,594"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "sungabatab"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "606,699kab"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "sabahkabahi"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[2, 0, "260174 sordab"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "el pas paso, texas"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[4, 0, "wesley wactive"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "elact pasive, texas"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "deltaactive"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[1, 0, "poard steelyard"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[2, 0, "32250"]]}}
+{"query": {"sel": 2, "agg": 1, "conds": [[1, 0, "10"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[0, 0, "pohang steelers"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[5, 0, "7757"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "nancy oliver"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "10"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "harron mary"]]}}
+{"query": {"sel": 3, "agg": 5, "conds": [[1, 0, "detiledmarkark\u0131an"]]}}
+{"query": {"sel": 4, "agg": 5, "conds": [[1, 0, "9"], [0, 0, "9"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "miller miller racing"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[7, 0, "8.5"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "23.3"]]}}
+{"query": {"sel": 9, "agg": 0, "conds": [[6, 0, "92nd racing"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[8, 0, "23.3"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[1, 0, "indiaball"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "south africa"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "1981"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[4, 0, "paul mcite"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[4, 0, "french/1itles)"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "\"refy friday\""]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "james wides"], [4, 0, "320"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[2, 0, "\"the sub\""]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "3"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "1951"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "piano prachestra4"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "pangama , paned"], [4, 0, "panama"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "validta"], [2, 0, "upper-366"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "25"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "john segoruor"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "dutques"], [5, 0, "dutques sapapton"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[3, 0, "filques filques"]]}}
+{"query": {"sel": 9, "agg": 3, "conds": [[8, 0, "64"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "244"]]}}
+{"query": {"sel": 8, "agg": 1, "conds": [[0, 0, "28"]]}}
+{"query": {"sel": 8, "agg": 1, "conds": [[7, 0, "3"]]}}
+{"query": {"sel": 8, "agg": 2, "conds": [[9, 0, "272"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": []}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "lawson impul"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "ben tr\u00e9lerouyluyo"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "kogashi takure"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[6, 0, "locvaluka loval"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "west inda"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[4, 0, "13 runs"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "13 runs"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "jan 2002"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[2, 0, "bellerive"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "1982"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[0, 0, "pennsylvania"], [1, 0, "pennsylvania"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "kentucky 2nd"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "february 14, 1794 contested"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "seat"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "south carolina 3rd"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "william h. wellsators"]]}}
+{"query": {"sel": 3, "agg": 3, "conds": [[1, 0, "clay"], [0, 0, "joshu fton"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "william north f"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "dr anderson"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "resigned"], [3, 0, "november 26, 2698 (98)"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "october 22, 1808"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "massachusetts 2nd"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[1, 0, "vacant"], [0, 0, "january 2, 1808"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "john culpper (f)"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "maryland 6th"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "4th"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[2, 0, "florida at-large"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "died january 12, 1826"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "pennsylvania 13th"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "died august 13, 1826"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "january 26, 1837 (37)"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[0, 0, "north carolina 13th"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "pennsylvania 17th"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "170"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[6, 0, "3.14"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[3, 0, "jonathan herrone"]]}}
+{"query": {"sel": 1, "agg": 1, "conds": []}}
+{"query": {"sel": 4, "agg": 0, "conds": [[6, 0, "8011"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[4, 0, "lea jberto leoth"]]}}
+{"query": {"sel": 0, "agg": 2, "conds": [[4, 0, "rai raju"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[4, 0, "johanes kes"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[8, 0, "2:47:11"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "1968"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[6, 0, "301"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[6, 0, "88.924"], [3, 0, "cpharborough"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[10, 0, "tialse"], [10, 0, "west brialsard"]]}}
+{"query": {"sel": 9, "agg": 5, "conds": [[1, 0, "t2e"]]}}
+{"query": {"sel": 0, "agg": 5, "conds": [[10, 0, "tialse"], [10, 0, "west hamard"]]}}
+{"query": {"sel": 8, "agg": 1, "conds": [[10, 0, "255itive"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[3, 0, "2786"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": []}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "frico"]]}}
+{"query": {"sel": 2, "agg": 3, "conds": [[1, 0, "17/08/08"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "7"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "kris doris"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[0, 0, "bryodge hodge"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": []}}
+{"query": {"sel": 2, "agg": 0, "conds": [[6, 0, "13"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "nov. 1966"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "maryland"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "idaho state"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "missouri valley"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[5, 0, "arizona state"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "atlantic coast"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[5, 0, "3.6%"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "17.3%"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[3, 0, "9.4%"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "905"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[1, 0, "$24,326"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[3, 0, "$20,958"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[6, 0, "1ark07"]]}}
+{"query": {"sel": 5, "agg": 3, "conds": [[6, 0, "1ark08"]]}}
+{"query": {"sel": 6, "agg": 3, "conds": [[1, 0, "\"ather'f\""]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[6, 0, "1.945"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[6, 0, "179"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "2006 europe/africa group i"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "may 3"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[1, 0, "february 27"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[5, 0, "brook lopez (8)"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "february 9"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[2, 0, "memphis"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[6, 0, "kphris humph (8)"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "0-1"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[0, 0, "5"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "1-1"]]}}
+{"query": {"sel": 0, "agg": 1, "conds": [[4, 0, "george hill (29)"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[3, 0, "chicago hyatt"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[1, 0, "amway arena"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[0, 0, "july 9, 2009"]]}}
+{"query": {"sel": 0, "agg": 3, "conds": [[3, 0, "shen creek"]]}}
+{"query": {"sel": 0, "agg": 0, "conds": [[4, 0, "invcoes field"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[8, 0, "naran kerry kerryan /anan"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[6, 0, "936an kotes"]]}}
+{"query": {"sel": 6, "agg": 1, "conds": [[8, 0, "kananan (nid)"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[7, 0, "k08nanan (r)"]]}}
+{"query": {"sel": 1, "agg": 2, "conds": [[0, 0, "21"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[3, 0, "paul lieberstein"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[4, 0, "1980"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "jordan cole"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[0, 0, "chanel chisholm"]]}}
+{"query": {"sel": 7, "agg": 2, "conds": [[6, 0, "3"]]}}
+{"query": {"sel": 3, "agg": 2, "conds": [[7, 0, "50"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[1, 0, "fed"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "fed wwe"]]}}
+{"query": {"sel": 7, "agg": 0, "conds": [[1, 0, "eddie guero"]]}}
+{"query": {"sel": 8, "agg": 3, "conds": [[1, 0, "england"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "\"touth smith the lo smith\""]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[0, 0, "88"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[6, 0, "5aj11"]]}}
+{"query": {"sel": 4, "agg": 0, "conds": [[3, 0, "jan pamee & coee"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "6\u20133, 6\u20132"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[2, 0, "philadelphia"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "clay"], [4, 0, "corrado barazzutti"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[3, 0, "clay"], [4, 0, "guillermo vilas"]]}}
+{"query": {"sel": 1, "agg": 3, "conds": [[5, 0, "6\u20131, 6\u20133"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "john mcenroe"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[4, 0, "us open"], [2, 0, "john mcenroe"]]}}
+{"query": {"sel": 2, "agg": 0, "conds": [[5, 0, "6\u20137 6\u20137 (4\u20137) , 6\u20134,7) , 4\u20136"]]}}
+{"query": {"sel": 3, "agg": 0, "conds": [[0, 0, "6"]]}}
+{"query": {"sel": 5, "agg": 0, "conds": [[0, 0, "2"]]}}
+{"query": {"sel": 1, "agg": 0, "conds": [[7, 0, "td garden 1814"]]}}
+{"query": {"sel": 8, "agg": 0, "conds": [[8, 0, "14-27"]]}}
+{"query": {"sel": 7, "agg": 3, "conds": [[0, 0, "35"]]}}
+{"query": {"sel": 6, "agg": 0, "conds": [[1, 0, "january 2"]]}}
